@@ -8,10 +8,6 @@ I'm an accomplished game developer and passionate tech enthusiast who excels at 
 ![Jewel-Thomas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jewel-Thomas&theme=dark&show_icons=true)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jewel-Thomas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Jewel Alexander Thomas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Jewel Thomas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/jewelthomas20/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/itch-dot-io.svg' alt='itch-dot-io' height='40'>](https://jewel-a-thomas.itch.io/)  
-
-
-
 Skills: Unity/ Python / Machine Learning / C++ / Blender / Audacity 
 
 - 🔭 I’m currently working on this page. 
