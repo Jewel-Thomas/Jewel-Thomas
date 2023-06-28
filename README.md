@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Jewel Alexander Thomas
 #### Game Developer and Programmer
-![Game Developer and Programmer]([[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVM8WTR2Jmdf0p4GWrViCroQ4svxZ8oWTKQ&usqp=CAU](https://github.com/Jewel-Thomas/Jewel-Thomas/blob/main/Untitled.jpg?raw=true)](https://github.com/Jewel-Thomas/Jewel-Thomas/blob/main/Untitled.jpg))
+![Game Developer and Programmer](https://img.freepik.com/free-photo/turned-gray-laptop-computer_400718-47.jpg?size=626&ext=jpg&ga=GA1.2.1065208247.1687978572&semt=sph)
 
 
 
