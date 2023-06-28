@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Jewel Alexander Thomas
+#### Game Developer and Programmer
+![Game Developer and Programmer](https://img.freepik.com/free-photo/turned-gray-laptop-computer_400718-47.jpg?size=626&ext=jpg&ga=GA1.2.1065208247.1687978572&semt=sph)
 
-<!--
-**Jewel-Thomas/Jewel-Thomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Game developer and a tech enthusiast skilled in encorporating different technologies like Machine Learning and AR-VR into Games.
 
-Here are some ideas to get you started:
+Skills: Unity/ Python / Machine Learning / C++ / Blender / Audacity 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
