@@ -12,7 +12,7 @@ I'm an accomplished game developer and passionate tech enthusiast who excels at 
 
 Skills: Unity/ Python / Machine Learning / C++ / Blender / Audacity 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandakishor-v&" alt="nandakishor-v" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jewel-Thomas&" alt="Jewel-Thomas" /></p>
 
 - 🔭 I’m currently working on this page. 
 
