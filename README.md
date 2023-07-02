@@ -9,6 +9,9 @@ I'm an accomplished game developer and passionate tech enthusiast who excels at 
 
 ![Jewel-Thomas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jewel-Thomas&theme=dark&show_icons=true)
 
+<a href="https://fb.com/nandakishor.veettikizhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nandakishor.veettikizhi" height="30" width="40" /></a>
+
+
 
 Skills: Unity/ Python / Machine Learning / C++ / Blender / Audacity 
 
